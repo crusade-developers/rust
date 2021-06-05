@@ -1,4 +1,4 @@
-# crusade_rust
+# crusade
 
 A Rust SDK to interact with TNB currency using async/await.
 

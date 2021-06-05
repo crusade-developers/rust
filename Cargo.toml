@@ -1,8 +1,11 @@
 [package]
-name = "crusade_rust"
+name = "crusade"
 version = "0.1.0"
 authors = ["Carter Snook <cartersnook04@gmail.com>"]
 edition = "2018"
+license = "UNLICENSE"
+description = "An SDK to interact with the server nodes on thenewboston cryptocurrency."
+keywords = ["thenewboston", "tnb", "cryptocurrency"]
 
 [dependencies]
 ed25519_dalek = { package = "ed25519-dalek", version = "1.0", features = ["serde"] }
