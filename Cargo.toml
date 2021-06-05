@@ -3,6 +3,7 @@ name = "crusade"
 version = "0.1.0"
 authors = ["Carter Snook <cartersnook04@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/crusade-developers/rust"
 license = "UNLICENSE"
 description = "An SDK to interact with the server nodes on thenewboston cryptocurrency."
 keywords = ["thenewboston", "tnb", "cryptocurrency"]
